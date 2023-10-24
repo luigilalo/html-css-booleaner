@@ -2,15 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Playpen Sans', cursive;
 }
 
 /* CLASSI CSS */
 .HB {
     background-color: rgb(147, 195, 211);
 }
-
+.MC {margin-left:18px}
 /*LOGO*/
 #logoB {width: 200px;
     margin: 25px;
 }
+
+h1 {margin-top: 35px;
+    
+}
+/*FOTO DEL MAIN CONTENT*/
+#photos {margin-top: 20px;
