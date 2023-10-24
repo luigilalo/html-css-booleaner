@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Playpen Sans', cursive;
+}
+
+/* CLASSI CSS */
+.HB {
+    background-color: rgb(147, 195, 211);
+}
+
+/*LOGO*/
+#logoB {width: 200px;
+    margin: 25px;
+}
