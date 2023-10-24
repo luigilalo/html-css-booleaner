@@ -25,9 +25,11 @@ h1 {margin-top: 35px;
 .highlighted { display: inline-block;
     background: #FFC107;
     }
+    span:hover {
+        text-decoration: underline; }
     .list {margin-left: 18px;
     margin-top: 10px;}
-
+h6 {font-family: Arial, Helvetica, sans-serif;}
     /*TABELLA*/
       table { margin-top: 20px;
       }
