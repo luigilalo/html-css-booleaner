@@ -7,6 +7,9 @@
 /* CLASSI CSS */
 .HB {
     background-color: rgb(147, 195, 211);
+    width: 100%;
+    height: 100px;
+    position:relative
 }
 .MC {margin-left:18px}
 /*LOGO*/
