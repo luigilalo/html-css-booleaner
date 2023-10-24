@@ -25,3 +25,5 @@ h1 {margin-top: 35px;
 .highlighted { display: inline-block;
     background: #FFC107;
     }
+    .list {margin-left: 18px;
+    margin-top: 10px;}
